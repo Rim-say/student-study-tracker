@@ -25,17 +25,22 @@ Tasks are stored in a JSON file so they are preserved even after the program is 
    ```bash
    python task_tracker.py
 ##**File Structure**
+
 py project/
+
 ├── task_tracker.py
+
 ├── tasks.json
+
 └── README.md
 
 ##**Skills Demonstrated**
-Python data structures (lists, dictionaries)
-Functions and program organization
-File handling with with
-JSON serialization/deserialization
-Basic user input validation
+
+- Python data structures (lists, dictionaries)
+- Functions and program organization
+- File handling with with
+- JSON serialization/deserialization
+- Basic user input validation
 
 ##**Author**
 Reem Sayegh
